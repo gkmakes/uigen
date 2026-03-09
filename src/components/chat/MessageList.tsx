@@ -1,6 +1,6 @@
 "use client";
 
-import { Message } from "ai";
+import { UIMessage as Message } from "ai";
 import { cn } from "@/lib/utils";
 import { User, Bot, Loader2 } from "lucide-react";
 import { MarkdownRenderer } from "./MarkdownRenderer";
